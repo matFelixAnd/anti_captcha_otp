@@ -1,0 +1,1 @@
+Aplicação feita com a finalidade de automatizar o sistema de pesca em um jogo. Ele realiza as ações de clique com pyautogui, e realiza o sistema de captcha com a bilioteca Pillow.
